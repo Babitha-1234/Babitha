@@ -1,4 +1,4 @@
-#1#features<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -262,3 +262,4 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
+</style>
